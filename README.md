@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 markdown
-# Moje oblibena zvířata: Kočky a křečci
+# Moje oblíbena zvířata: Kočky a křečci
 Tento projekt je věnován dvěma skvělým domácím mazlíčkům-kočkám a křečkům. Najdete zde základní informace a fotky.
-Složka pro fotky zvířat.
+
 
 # Zajimavost o kočkách 
 Kočky stráví až 70 % svého života spánkem a umí vydávat více než 100 různých zvuků.
