@@ -24,6 +24,9 @@ Kočka domácí je zdomácnělá forma kočky divoké. Je to tradiční společn
 # Zajimavost o kočkách 
 Kočky stráví až 70 % svého života spánkem a umí vydávat více než 100 různých zvuků.
 
+# Základní informace o křečcích
+Křečci jsou drobní hlodavci známí svými lícními torbami. Jsou to noční živočichové, kteří většinu dne prospí
+
 # Zajímavost o křeřcích
- Křečci mají lícní torby, do kterých dokáží posbírat potravu o hmotnosti až poloviny svého těla.
+Křečci mají lícní torby, do kterých dokáží posbírat potravu o hmotnosti až poloviny svého těla.
 
