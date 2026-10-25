@@ -18,6 +18,8 @@ markdown
 # Moje oblíbena zvířata: Kočky a křečci
 Tento projekt je věnován dvěma skvělým domácím mazlíčkům-kočkám a křečkům. Najdete zde základní informace a fotky.
 
+# Základní informace o kočkách
+Kočka domácí je zdomácnělá forma kočky divoké. Je to tradiční společník člověka a vynikající lovec drobných hlodavců.
 
 # Zajimavost o kočkách 
 Kočky stráví až 70 % svého života spánkem a umí vydávat více než 100 různých zvuků.
