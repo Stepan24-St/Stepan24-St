@@ -19,6 +19,6 @@ markdown
 Tento projekt je věnován dvěma skvělým domácím mazlíčkům-kočkám a křečkům. Najdete zde základní informace a fotky.
 Složka pro fotky zvířat.
 
-echo "Zajímavosti o zvířatech a poznamky k projektu." > texty/zajimavosti.txt
-git add texty/zajimavosti.txt
-git commit -m "Přidání textového souboru do texty"
+# Zajimavost o kočkách 
+Kočky stráví až 70 % svého života spánkem a umí vydávat více než 100 různých zvuků.
+
