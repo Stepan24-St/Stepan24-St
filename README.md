@@ -19,9 +19,3 @@ markdown
 Tento projekt je věnován dvěma skvělým domácím mazlíčkům-kočkám a křečkům. Najdete zde základní informace a fotky.
 Složka pro fotky zvířat.
 
-mkdir Zvirata-Konicky-Project
-cd Zvirata-Konicky-Project
-git init
-echo "# Svět zvířat" > README.md
-git add README.md
-git commit -m "Vytvoření prázdného repozitáře"
